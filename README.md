@@ -1,4 +1,4 @@
 Tailwind Basic Layout
 ---------------------
 
-Details here [Gist]([https://pages.github.com/](https://gist.github.com/kevyworks/c0078e4fb0dd2c47c1cc277cbca9f2a6))
+Details here [Gist](https://gist.github.com/kevyworks/c0078e4fb0dd2c47c1cc277cbca9f2a6)
